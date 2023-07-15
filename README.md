@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cnltaf
-- 👀 I’m interested in ...Music
-- 🌱 I’m currently learning ...To be a better human
+- 👀 I’m interested in ...Music, Raspberry Pi, Emulators
+- 🌱 I’m currently learning ...To be a better human, Learn Linux better.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
